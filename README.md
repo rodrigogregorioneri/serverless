@@ -13,3 +13,8 @@ Instruções para teste.
 - sls deploy
 
 - sls invoke -f hello
+
+
+Instagram: @neriidev
+LinkedIn: Rodrigo Gregorio Neri
+
