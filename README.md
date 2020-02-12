@@ -1,4 +1,4 @@
-# serverless
+# Serverless Projeto de Exemplo - AWS
 
 Requisitos:
   - Conta AWS 
